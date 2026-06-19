@@ -6,12 +6,6 @@ people can register and login into their account. Users can perform add
 their daily tasks, color-highlight any task, after done they can mark a
 task as done. Also in the sidebar screen, they can see their done tasks.
 
-## Live
-**Video Demo:** https://youtu.be/4S5oi9WjbZE
-
-**Frontend**: [Click](https://taskmanager-rahi.web.app/) or visit here: https://taskmanager-rahi.web.app/
-
-**Backend api root**: http://taskmanage.pythonanywhere.com
 ## Tech Stack
 
 **Frontend:** Reactjs,Bootstrap,Redux,Context Api,react-router-dom,react-hook,react-hook-form,react-toastify,jwt-decode,axios
