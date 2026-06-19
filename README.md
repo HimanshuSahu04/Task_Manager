@@ -105,7 +105,7 @@ task as done. Also in the sidebar screen, they can see their done tasks.
 Clone the project
 
 ```bash
-  git clone https://github.com/icerahi/taskmanager
+  git clone https://github.com/HimanshuSahu04/Task_Manager
 ```
 
 Go to the project directory
